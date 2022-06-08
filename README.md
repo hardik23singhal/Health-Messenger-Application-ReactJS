@@ -3,7 +3,10 @@
 ![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+ This is the repository having both Client as well as Server application.
+
+Server is hosted on Heroku.
+Client Code is hosted on Netlify.
 
 
 
